@@ -1,0 +1,18 @@
+Types of Complexity 
+There are two types of complexities i.e. Time and Space Complexity
+
+
+Time Complexity 
+So what is complexity ? Let's first understand in simple world time taken by algorithm according to input is time complexity.
+Let's go deep into it It's relationship between functions that gives how time grows as input grows.
+
+
+Types of cases
+1)Worst Case
+2)Best Case
+3)Worst Case
+
+What is worst case ?
+Worst case is case in which algorithm takes worst input so it gives worst time taken by algorithm.We mainly use worst case to calculate the complexity of algorithms.
+
+What is best case ?
